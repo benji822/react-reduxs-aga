@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Brandon Stack",
+      "email": "brandon@email.com",
+      "phone": "12345678",
+      "status": "active",
+      "address": "UK"
+    },
+    {
+      "name": "Jon Snow",
+      "email": "jon@email.com",
+      "address": "Finland",
+      "phone": "123456789",
+      "status": "inactive",
+      "id": 2
+    },
+    {
+      "name": "Cindy",
+      "email": "cindy@email.com",
+      "address": "Japan",
+      "phone": "234589",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "name": "Wong",
+      "email": "wong@email.com",
+      "address": "Oakland",
+      "phone": "456782135",
+      "status": "inactive",
+      "id": 4
+    },
+    {
+      "name": "Jon Weak",
+      "email": "jonweak@email.com",
+      "address": "UK",
+      "phone": "8954123",
+      "status": "active",
+      "id": 5
+    },
+    {
+      "name": "Test",
+      "email": "test@email.com",
+      "address": "UK",
+      "phone": "85692314",
+      "status": "active",
+      "id": 6
+    }
+  ]
+}
